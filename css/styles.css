@@ -1,4 +1,23 @@
-
 body {
-  background-color: #ccc;
+  /*font-family: 'Lato', sans-serif;*/
+  font-family: 'Open Sans', sans-serif;
+  background-color: #FFFFFF;
+  color: #16364f;
+}
+a {
+  color: #32bbdb;
+}
+
+a:hover {
+  color: #16364f;
+  text-decoration: none;
+}
+
+p {
+  font-weight: 200;
+  font-size: 21px;
+  line-height: 1.6;
+  /*padding-right: 90px;*/
+  text-align: left;
+  margin: 0 0 20px 0;
 }
